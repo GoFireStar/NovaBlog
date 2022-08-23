@@ -1,0 +1,21 @@
+{
+  "name": "novablog",
+  "version": "1.0.0",
+  "description": "个人博客",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mature",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.2",
+    "vuepress-plugin-auto-sidebar": "^2.3.2"
+  },
+  "dependencies": {
+    "vuepress-bar": "^0.4.4",
+    "vuepress-theme-yilia-plus": "^1.0.0"
+  }
+}

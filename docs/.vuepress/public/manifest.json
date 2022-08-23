@@ -1,0 +1,7 @@
+{
+  "name": "Nova_blog",
+  "short_name": "blog",
+  "version": "1.0.0",
+  "description": "全栈程序员, Nova博客",
+  "manifest_version": 2
+}
